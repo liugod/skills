@@ -1,4 +1,4 @@
-# skills/product-knowledge/SKILL.md
+# skills/product-knowledge-SKILL.md
 
 # 技能名称
 Product Knowledge Translator
