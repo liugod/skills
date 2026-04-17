@@ -1,4 +1,4 @@
-# skills/brand-core/SKILL.md
+# skills/brand-core-SKILL.md
 
 # 技能名称
 Brand Core Guard
